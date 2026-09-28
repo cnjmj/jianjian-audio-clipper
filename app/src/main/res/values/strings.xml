@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简剪 · 音频剪辑</string>
+    <string name="pick_audio">选择音频</string>
+    <string name="empty_tip">点击右下角按钮选择音频文件\n支持 MP3 / M4A / WAV / AAC 等</string>
+    <string name="decoding">正在解码波形…</string>
+    <string name="play">播放</string>
+    <string name="preview_range">试听区间</string>
+    <string name="mark_start">设为起点</string>
+    <string name="mark_end">设为终点</string>
+    <string name="minus_5s">−5s</string>
+    <string name="minus_half_s">−0.5s</string>
+    <string name="plus_half_s">+0.5s</string>
+    <string name="plus_5s">+5s</string>
+    <string name="save_clip">导出剪辑片段</string>
+    <string name="menu_clear">清空历史</string>
+    <string name="long_press_start">长按起点=回到开头</string>
+</resources>
